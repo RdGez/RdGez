@@ -11,7 +11,7 @@
        alt="snake" /></a>
 </div>
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdgez&show_icons=true&locale=en&layout=compact" alt="rdgez" /></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdgez&show_icons=true&locale=en&layout=compact&theme=dark&show_icons=true" alt="rdgez" /></p>
 
 - 🌱 I’m currently improve **my skills in React**
 
