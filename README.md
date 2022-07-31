@@ -11,21 +11,13 @@
        alt="snake" /></a>
 </div>
 
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdgez&show_icons=true&locale=en&layout=compact" alt="rdgez" /></p>
+
 - 🌱 I’m currently improve **my skills in React**
 
 - 💬 Ask me about **Angular, React, Node**
 
 - 📫 How to reach me **OscarRodriguezViveros@gmail.com**
-
-<p align="right">
-<p  align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdgez&show_icons=true&locale=en" alt="rdgez" /></p>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdgez&show_icons=true&locale=en&layout=compact" alt="rdgez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdgez&show_icons=true&locale=en" alt="rdgez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdgez&" alt="rdgez" /></p>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
