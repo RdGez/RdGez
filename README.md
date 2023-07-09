@@ -14,7 +14,7 @@
 <br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RdGez&show_icons=true&theme=dark&locale=en&layout=compact" alt="RdGez" /></p>
 
-- 🌱 I’m currently improve **my skills in Vue**
+- 🌱 I’m currently learning a lot of stuff.
 
 - 💬 Ask me about **Angular, React, Vue, Node, Nest**
 
