@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="485px" font-size="16px">
+  <defs>
+    <style>
+      @font-face {
+        src: local('Consolas'), local('Consolas Bold');
+        font-family: 'ConsolasFallback';
+        font-display: swap;
+        -webkit-size-adjust: 109%;
+        size-adjust: 109%;
+      }
+      .key { fill: #ffa657; }
+      .value {fill: #a5d6ff; }
+      .addColor { fill: #3fb950; }
+      .delColor { fill: #f85149; }
+      .cc { fill: #616e7f; }
+      text, tspan { white-space: pre; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" rx="12" ry="12" fill="#161b22"/>
+  <image href="./bracket.svg" x="50" y="142.5" width="200" height="200" />
+  <text fill="#c9d1d9">
+      <tspan x="288" y="60"  >oscar@rdgez </tspan> -————————————————————————————————————————————————————-—-
+      <tspan x="288" y="82"  class="cc">.</tspan> <tspan class="key">Profile.Role</tspan>: <tspan class="cc">.......................</tspan> <tspan class="value">Full‑Stack Developer (+5 yrs)</tspan>
+      <tspan x="288" y="104" class="cc">.</tspan>
+      <tspan x="288" y="126" class="cc">.</tspan> <tspan class="key">Languages.Programming</tspan>: <tspan class="cc">...</tspan> <tspan class="value">JavaScript, TypeScript, Python, C#, Java</tspan>
+      <tspan x="288" y="148" class="cc">.</tspan> <tspan class="key">Languages.Real</tspan>: <tspan class="cc">..................................</tspan> <tspan class="value">English, Spanish</tspan>
+      <tspan x="288" y="170" class="cc">.</tspan>
+      <tspan x="288" y="192" class="cc">.</tspan> <tspan class="key">Technologies.FrontEnd</tspan>: <tspan class="cc">..................</tspan> <tspan class="value">Angular, React, Vue, Next</tspan>
+      <tspan x="288" y="214" class="cc">.</tspan> <tspan class="key">Technologies.BackEnd</tspan>: <tspan class="cc">..........</tspan> <tspan class="value">Node, Nest, Express, GraphQL, .NET</tspan>
+      <tspan x="288" y="236" class="cc">.</tspan> <tspan class="key">Technologies.Databases</tspan>: <tspan class="cc">...</tspan> <tspan class="value">PostgreSQL, MongoDB, DynamoDB, Firebase</tspan>
+      <tspan x="288" y="258" class="cc">.</tspan>
+      <tspan x="288" y="280" class="cc">.</tspan> <tspan class="key">Infra</tspan>: <tspan class="cc">..........................</tspan> <tspan class="value">Docker, AWS, CI/CD (Jenkins, GHA)</tspan>
+      <tspan x="288" y="302" class="cc">.</tspan> <tspan class="key">Testing</tspan>: <tspan class="cc">....................................</tspan> <tspan class="value">Jest, Jasmine, Vitest</tspan>
+      <tspan x="288" y="324" class="cc">.</tspan> <tspan class="key">Methodologies</tspan>: <tspan class="cc">..........</tspan> <tspan class="value">Agile/SCRUM, SOLID, DRY, KISS, Clean Code</tspan>
+      <tspan x="288" y="346" class="cc">.</tspan>
+      <tspan x="288" y="368">contact@info</tspan> -————————————————————————————————————————————————————-—-
+      <tspan x="288" y="390" class="cc">.</tspan> <tspan class="key">Email</tspan>: <tspan class="cc">............................</tspan> <tspan class="value">OscarRodriguezViveros@gmail.com</tspan>
+      <tspan x="288" y="412" class="cc">.</tspan> <tspan class="key">GitHub</tspan>: <tspan class="cc">..........................................</tspan> <tspan class="value">github.com/RdGez</tspan>
+      <tspan x="288" y="434" class="cc">.</tspan> <tspan class="key">LinkedIn</tspan>: <tspan class="cc">.........................................</tspan> <tspan class="value">/in/oscar-rdgez</tspan>
+  </text>
+</svg>
